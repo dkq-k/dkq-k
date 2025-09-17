@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/TCLmt3txtq0FGTdl26LjMU2BwAgvYrJXDWEW3zo0JuI/%3Falt%3Dmedia%26token%3D7e9d4d65-6097-4457-9ad3-5a93ffc17fe6/https/firebasestorage.googleapis.com/v0/b/ntctf-1b330.firebasestorage.app/o/wargame%252F1755233636169__2025._7._17._09.28.jpeg?format=webp&width=1705&height=1412" width="250px"/>
+  <img src="https://media.discordapp.net/attachments/1234411899572195360/1394853642724704389/viewimage.png?ex=68cb60af&is=68ca0f2f&hm=9026b3d72fa964ceb5e03b6c699ba6a078b93b95e1ea85581b60a0c1a0ffe4cf&=&format=webp&quality=lossless&width=568&height=770" width="250px"/>
   <h1>Hi, I'm <strong>Abdullah</strong> 😎</h1>
   <h3>Information Security Student | Deokyeong High School</h3>
   
