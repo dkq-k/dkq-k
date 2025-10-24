@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://embed.pixiv.net/artwork.php?illust_id=126758438&mdate=1738329859" width="250px"/>
+  <img src="https://i.namu.wiki/i/HdUe5hcMQ8WIm3Svc0n6ou6awTI7hUS1HVaSOxLXC1hqxhaDYFHuXeZYiT579F4QwVVxgcAfA9H_wrJvX1v1Kw.webp" width="250px"/>
   <h1>Hi, I'm <strong>Abdullah</strong> 😎</h1>
   <h3>Information Security Student | Deokyeong High School</h3>
   
