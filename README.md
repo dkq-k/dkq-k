@@ -41,26 +41,6 @@ I am a student at **Dukyoung High School**, majoring in **Information Security S
 <br>
 
 ---
-
-### Learning - 공부하는 분야
-
-현재 **Dreamhack** 에서 다음과 같은 분야를 학습하며 역량을 키우고 있습니다.  
-I am sharpening my skills by learning these areas:  
-
-### 📚 Learning - 공부하는 분야
-
-현재 **Dreamhack** 등에서 다음과 같은 분야를 학습하며 역량을 키우고 있습니다.  
-I am sharpening my skills by learning these areas:  
-
-| Category / 분류 | Fields / 세부 분야 |
-| :--- | :--- |
-| **System Hacking** | System Exploitation, Embedded Hacking, Linux Kernel Exploit <br> **Tools**: GDB, Pwntools, strace <br> **Languages**: C, Assembly |
-| **Web Hacking** | Web Security, Vulnerability Analysis (XSS, SQLi, CSRF) <br> **Tools**: BurpSuite, SQLMap, OWASP ZAP <br> **Languages**: HTML, CSS, JavaScript |
-| **Cryptography** | Classical & Modern Cryptography, RSA/DSA/ECC, Protocol Analysis <br> **Tools**: SageMath, OpenSSL, CrypTool <br> **Languages**: Python, C |
-| **Reversing** | Reverse Engineering, Malware Analysis, Binary Exploitation <br> **Tools**: IDA, Ghidra, Radare2 <br> **Languages**: C++, Go |
-
-<br>
-
 ---
 
 ### 🛠 Tech Stack - 기술 스택
