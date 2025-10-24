@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1234411899572195360/1394853642724704389/viewimage.png?ex=68cb60af&is=68ca0f2f&hm=9026b3d72fa964ceb5e03b6c699ba6a078b93b95e1ea85581b60a0c1a0ffe4cf&=&format=webp&quality=lossless&width=568&height=770" width="250px"/>
+  <img src="" width="250px"/>
   <h1>Hi, I'm <strong>Abdullah</strong> 😎</h1>
   <h3>Information Security Student | Deokyeong High School</h3>
   
