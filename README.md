@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.namu.wiki/i/5GLV72P4TmSAnxraTz0X7bP3GEWM-3iTCzOGWKSqO5NsiP93SHYj8KfjiHduyIatFuR8Gvlp-7vyCEPUHEcD1Q.webp" width="250px"/>
-  <h1>Hi, I'm <strong>Abdullah</strong> 😎</h1>
+  <h1>Hi, I'm <strong>DKQ</strong> 😎</h1>
   <h3>Information Security Student | Deokyeong High School</h3>
   
   <!-- 배지 가운데 정렬 -->
