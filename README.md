@@ -33,17 +33,11 @@ I am a student at **Dukyoung High School**, majoring in **Information Security S
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkq-K&show_icons=true&theme=highcontrast" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkq-k&layout=compact&theme=highcontrast" height="160"/>
-</div>
 <br>
 
 ---
 ---
 
-### 🛠 Tech Stack - 기술 스택
 ### 🛠 Tech Stack - 기술 스택
 | Category / 분류 | Skills / 보유 기술 |
 | :--- | :--- |
