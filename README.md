@@ -33,11 +33,6 @@ I am a student at **Dukyoung High School**, majoring in **Information Security S
 
 ---
 
-<br>
-
----
----
-
 ### 🛠 Tech Stack - 기술 스택
 | Category / 분류 | Skills / 보유 기술 |
 | :--- | :--- |
