@@ -48,8 +48,6 @@ I am a student at **Dukyoung High School**, majoring in **Information Security S
 
 <br>
 
----
-
 ### 🤝 Connect with Me - 연락처
 <p align="center">
   <a href="https://dreamhack.io/users/54640/" target="_blank"><img src="https://img.shields.io/badge/Dreamhack-0000FF?style=for-the-badge" alt="Dreamhack"/></a>
